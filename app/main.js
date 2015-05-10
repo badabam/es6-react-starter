@@ -8,4 +8,4 @@ class App extends React.Component {
   }
 }
 
-React.render(<App />, document.getElementById('wrapper'));
+React.render(<App />, document.getElementById('root'));
