@@ -1,5 +1,5 @@
 {
-  "name": "ideabox-react",
+  "name": "change me",
   "version": "1.0.0",
   "description": "",
   "main": "app/main.js",
@@ -8,7 +8,7 @@
     "build": "webpack --progress --colors"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^5.1.10",
     "babel-loader": "^5.0.0",
