@@ -1,6 +1,6 @@
-require('../css/app.css');
-
 import React from 'react';
+
+require('./styles/app.css');
 
 class App extends React.Component {
   render() {
