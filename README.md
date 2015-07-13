@@ -9,7 +9,7 @@ Install dependencies:
 npm install
 ```
 
-Run the webpack dev server (by default runs on `localhost:8086`):
+Run the webpack dev server, which by default runs on `localhost:8086`:
 
 ```
 npm start
