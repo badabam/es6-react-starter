@@ -12,11 +12,9 @@
   "dependencies": {
     "css-loader": "^0.10.1",
     "style-loader": "^0.10.2",
-    "react-router": "^0.13.2",
     "react": "^0.13.1",
     "babel-core": "^5.1.10",
     "babel-loader": "^5.0.0",
-    "react-hot-loader": "^1.2.5",
     "webpack": "^1.8.4",
     "webpack-dev-server": "^1.8.0"
   }
