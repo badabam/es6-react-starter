@@ -7,7 +7,8 @@ A simple starter for React with ES6 and Webpack.
 npm install
 ```
 
-## Run the webpack dev server, which by default runs on `localhost:8086`:
+## Run the webpack dev server:
+Runs on `localhost:8086` by default
 
 ```
 npm start
