@@ -1,15 +1,13 @@
-Stuff you can do:
+# Simple ES6 React Starter
+A simple starter for React with ES6 and Webpack.
 
-* Use JavaScript from the future, today (ES6 via babel)
-* Just add css to `css/app.css`
-
-Install dependencies:
+## Install dependencies:
 
 ```
 npm install
 ```
 
-Run the webpack dev server, which by default runs on `localhost:8086`:
+## Run the webpack dev server, which by default runs on `localhost:8086`:
 
 ```
 npm start
