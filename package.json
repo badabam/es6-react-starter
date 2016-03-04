@@ -1,7 +1,6 @@
 {
-  "name": "fixme",
-  "version": "1.0.0",
-  "description": "",
+  "name": "ES6 React App",
+  "version": "0.0.1",
   "main": "app/main.js",
   "scripts": {
     "start": "webpack-dev-server --progress --colors --content-base build/",
