@@ -3,4 +3,4 @@ import App from './App';
 
 require('./styles/app.css');
 
-React.render(<App />, document.getElementById('root'));
+React.render(<App />, document.getElementById('app'));
